@@ -41,6 +41,12 @@ The other one was giving me a hard time, long story short, poor user interface.
 ## Getting the camera to work: conda install -c conda-forge aiosmtplib
 but its imported as smtplib
 
+Okay got detect_camera.py or ipynb to work, actually it said py, but my ipynb ran.
+Things to note, you need to 'sender gmail' with password so somebody remind me how to do that with the gitignore please.
+
+It also needs another gmail, the receiver gmail address, no password. It runs as long as you want and then you have to kill the terminal, 
+the conn.quit doesn't seem to work in a reasonable amount of time, I think I ran it for a minute.
+
 
 
 

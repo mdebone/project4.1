@@ -77,6 +77,8 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# google_password = wO9iB1xN5iE7yV as pass
+
 # IPython
 profile_default/
 ipython_config.py
