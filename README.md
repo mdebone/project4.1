@@ -47,6 +47,11 @@ Things to note, you need to 'sender gmail' with password so somebody remind me h
 It also needs another gmail, the receiver gmail address, no password. It runs as long as you want and then you have to kill the terminal, 
 the conn.quit doesn't seem to work in a reasonable amount of time, I think I ran it for a minute.
 
+#Okay these things take like 2 minutes a piece and they are informative, I sugget giving them a try
+https://www.geeksforgeeks.org/face-and-hand-landmarks-detection-using-python-mediapipe-opencv/?ref=rp
+
+a.1 Face_and_Hand_Landmark_Detection
+
 
 
 
