@@ -28,3 +28,7 @@ We probably want 'Google Drive API' but you don have the option to pick it, ther
 
 5. Download the JSON file and we are good to go
 
+# Got PyDrive to work, use this article,
+it runs on like 20 lines of code
+I added all of the files to the .gitignore cause I figure they are a security risk, but not sure
+
