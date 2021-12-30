@@ -30,7 +30,17 @@ We probably want 'Google Drive API' but you don have the option to pick it, ther
 
 # needs pip install pydrive
 
-# Got PyDrive to work, use this article,
+# Got PyDrive to work, use this article, https://towardsdatascience.com/how-to-manage-files-in-google-drive-with-python-d26471d91ecd
 it runs on like 20 lines of code
-I added all of the files to the .gitignore cause I figure they are a security risk, but not sure
+I added all of the files to the .gitignore cause I figure they are a security risk, but not sure?
+
+The other one was giving me a hard time, long story short, poor user interface.
+
+
+
+## Getting the camera to work: conda install -c conda-forge aiosmtplib
+but its imported as smtplib
+
+
+
 
